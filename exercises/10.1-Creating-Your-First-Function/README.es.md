@@ -16,7 +16,7 @@ tutorial: "https://www.youtube.com/watch?v=ePn8AzCG57Y"
 
 ## 🔎 Importante:
 
-+ Para practicar con más funciones, 4Geeks Academy tiene más de 20 ejercicios que se incrementan en dificultad: [https://github.com/4GeeksAcademy/python-functions-programming-exercises](https://github.com/4GeeksAcademy/python-functions-programming-exercises).
++ Para practicar con más funciones, 4Geeks Academy tiene más ejercicios que se incrementan en dificultad: [https://github.com/4GeeksAcademy/python-functions-programming-exercises](https://github.com/4GeeksAcademy/python-functions-programming-exercises).
 
 ¡Inténtalos, y luego regresa! 😃  
 
